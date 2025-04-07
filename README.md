@@ -1,5 +1,7 @@
 # AutoQuizClicker 📸🤖
 
+![AutoQuizClicker Preview](auto_quiz_clicker_preview.gif)
+
 An automation script using Python, OCR, and image recognition to answer on-screen quiz questions and interact with UI buttons.
 
 
