@@ -115,12 +115,6 @@ This script is for educational and experimental use only. Make sure you're allow
 
 ---
 
-## 📸 Preview (Optional)
-
-Add a GIF or screenshot of it in action here!
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
