@@ -77,23 +77,6 @@ Once running, the script will:
 
 ---
 
-## 🚨 Disclaimer
-
-This script is for educational and experimental use only. Make sure you're allowed to automate interactions on the platform you're using it with.
-
----
-
-## 📸 Preview (Optional)
-
-Add a GIF or screenshot of it in action here!
-
----
-
-## 📄 License
-
-MIT License
----
-
 ## 🔍 Code Walkthrough
 
 ### 1. `get_screen_text()`
@@ -122,4 +105,21 @@ MIT License
 - Main infinite loop to keep practicing questions.
 - After answering 3, it clicks "Practice Again" to restart.
 
+---
+
+## 🚨 Disclaimer
+
+This script is for educational and experimental use only. Make sure you're allowed to automate interactions on the platform you're using it with.
+
+---
+
+## 📸 Preview (Optional)
+
+Add a GIF or screenshot of it in action here!
+
+---
+
+## 📄 License
+
+MIT License
 ---
