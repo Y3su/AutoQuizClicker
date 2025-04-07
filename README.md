@@ -2,6 +2,12 @@
 
 An automation script using Python, OCR, and image recognition to answer on-screen quiz questions and interact with UI buttons.
 
+
+## 🎯 Objective
+
+The goal of this project is to automate the answering of on-screen multiple-choice questions by leveraging OCR and image recognition.
+It eliminates repetitive manual clicking and helps practice quizzes more efficiently. Ideal for educational platforms or gamified learning systems.
+
 ---
 
 ## 🧠 Description
