@@ -111,7 +111,7 @@ Once running, the script will:
 
 ## 🚨 Disclaimer
 
-This script is for educational and experimental use only. Make sure you're allowed to automate interactions on the platform you're using it with.
+This script was built purely for educational exploration and personal learning. It is not intended for production use or to abuse any learning platform. Please respect the terms of service of any platform you apply it to.
 
 ---
 
